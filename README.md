@@ -1,11 +1,51 @@
+AURA – AI-Powered Health Assistant (Prototype)
 
-  # Arogya Mitra medical assistant
+Description:
+AURA (formerly Arogya Mithra) is a prototype digital assistant designed to provide a responsive, interactive UI for health guidance and wellness support. Developed as a hackathon MVP, it demonstrates core TypeScript and CSS skills along with rapid prototyping and UI/UX design.
 
-  This is a code bundle for Arogya Mitra medical assistant. The original project is available at https://www.figma.com/design/lwzo7k1UwusxiYqwlAk41D/Arogya-Mitra-medical-assistant.
+Features (Prototype):
 
-  ## Running the code
+Interactive UI for health guidance and wellness support
 
-  Run `npm i` to install the dependencies.
+Responsive design for cross-device usage
 
-  Run `npm run dev` to start the development server.
+Demonstrates personalized recommendations logic (frontend only)
+
+Tech Stack:
+
+Frontend: TypeScript, CSS
+
+UI/UX: Clean, responsive design
+
+Prototype: Focused on interaction, styling, and hackathon demo
+
+Project Highlights:
+
+Developed and showcased at Dawn of Code Hackathon 2025
+
+Demonstrated rapid prototyping, teamwork, and clean frontend coding
+
+Currently a frontend prototype, with future plans for backend and AI integration
+
+How to Run (Prototype):
+
+Clone the repo
+
+git clone https://github.com/Dhanuskiruthick/AROGYA-MITRA-MEDICAL-CHATBOT.git
+
+
+Open the project in VS Code / browser live-server
+
+Interact with the assistant via UI
+
+Future Plans:
+
+Add AI-based analytics and voice interaction
+
+Integrate backend for secure data handling
+
+Extend personalization features
+
+Tags / Topics:
+#TypeScript #CSS #Prototype #HackathonProject #UIUX #HealthTech #VITBhopal #TeamAura
   
