@@ -1,51 +1,96 @@
 AURA – AI-Powered Health Assistant (Prototype)
+🚀 Overview
 
-Description:
-AURA (formerly Arogya Mithra) is a prototype digital assistant designed to provide a responsive, interactive UI for health guidance and wellness support. Developed as a hackathon MVP, it demonstrates core TypeScript and CSS skills along with rapid prototyping and UI/UX design.
+AURA (formerly Arogya Mithra) is a prototype digital assistant developed during the Dawn of Code Hackathon 2025.
+It focuses on interactive health guidance through a clean TypeScript + CSS frontend, demonstrating UI/UX design, rapid prototyping, and interactivity.
 
-Features (Prototype):
+⚡ Note: This is a prototype (frontend-only). Backend/AI integration will be added in future versions.
 
-Interactive UI for health guidance and wellness support
 
-Responsive design for cross-device usage
 
-Demonstrates personalized recommendations logic (frontend only)
+🧩 Features
 
-Tech Stack:
+Even as a prototype, AURA showcases:
 
-Frontend: TypeScript, CSS
+Interactive UI: Users can input health queries or options and see immediate responses.
 
-UI/UX: Clean, responsive design
+Responsive Design: Works across devices (desktop, tablet, mobile).
 
-Prototype: Focused on interaction, styling, and hackathon demo
+Visual Feedback: Clear UI elements guide the user through the interaction.
 
-Project Highlights:
+Prototype Logic: Demonstrates the intended behavior for health guidance and personalization.
 
-Developed and showcased at Dawn of Code Hackathon 2025
 
-Demonstrated rapid prototyping, teamwork, and clean frontend coding
+💻 Tech Stack
+Layer	Technology / Tools
+Frontend	TypeScript, CSS
+UI/UX	Responsive design principles
+Prototype	HTML structure, interactive components
 
-Currently a frontend prototype, with future plans for backend and AI integration
 
-How to Run (Prototype):
+🎯 Project Highlights
 
-Clone the repo
+Developed for Dawn of Code Hackathon 2025
+
+Demonstrated rapid prototyping, clean coding, and teamwork
+
+Frontend-only prototype, with plans for backend, AI, and data integration
+
+Focused on interactive user experience for health guidance
+
+
+🛠 How to Run
+
+Clone the repo:
 
 git clone https://github.com/Dhanuskiruthick/AROGYA-MITRA-MEDICAL-CHATBOT.git
 
 
-Open the project in VS Code / browser live-server
+Open the project folder in VS Code or your preferred editor
 
-Interact with the assistant via UI
+Start a live-server (or open index.html in a browser)
 
-Future Plans:
+Interact with the UI to explore prototype features
 
-Add AI-based analytics and voice interaction
+⚡ Tip: Use the browser console to see any log messages simulating backend responses.
 
-Integrate backend for secure data handling
 
-Extend personalization features
+📌 Project Structure
+AROGYA-MITRA-MEDICAL-CHATBOT/
+├─ index.html       # Main HTML page
+├─ style.css        # Prototype styling
+├─ app.ts           # TypeScript frontend logic
+├─ assets/          # Images, icons, UI resources
+├─ README.md        # Project documentation
 
-Tags / Topics:
-#TypeScript #CSS #Prototype #HackathonProject #UIUX #HealthTech #VITBhopal #TeamAura
+
+🔮 Future Plans
+
+Add AI/ML-based health recommendations
+
+Integrate backend for storing user interactions securely
+
+Add voice interaction and analytics
+
+Convert prototype into a full-fledged intelligent assistant
+
+
+📝 Notes / Clarifications
+
+This is a frontend prototype only
+
+Designed primarily for hackathon demonstration
+
+All features are simulated via TypeScript, not connected to live databases or AI
+
+
+📸 Screenshots / GIFs
+
+Add screenshots or GIF of prototype interaction here. Example:
+
+Home screen
+
+User input + response
+
+Mobile responsiveness
   
