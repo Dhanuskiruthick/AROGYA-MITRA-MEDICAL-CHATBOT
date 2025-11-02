@@ -84,13 +84,5 @@ Designed primarily for hackathon demonstration
 All features are simulated via TypeScript, not connected to live databases or AI
 
 
-📸 Screenshots / GIFs
 
-Add screenshots or GIF of prototype interaction here. Example:
-
-Home screen
-
-User input + response
-
-Mobile responsiveness
   
