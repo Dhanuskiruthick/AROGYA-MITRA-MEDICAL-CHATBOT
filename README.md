@@ -1,5 +1,5 @@
 AURA – AI-Powered Health Assistant (Prototype)
-##Overview
+# Overview
 
 AURA (formerly Arogya Mithra) is a prototype digital assistant developed during the Dawn of Code Hackathon 2025.
 It focuses on interactive health guidance through a clean TypeScript + CSS frontend, demonstrating UI/UX design, rapid prototyping, and interactivity.
@@ -8,7 +8,7 @@ It focuses on interactive health guidance through a clean TypeScript + CSS front
 
 
 
-##Features
+# Features
 
 Even as a prototype, AURA showcases:
 
@@ -21,14 +21,14 @@ Visual Feedback: Clear UI elements guide the user through the interaction.
 Prototype Logic: Demonstrates the intended behavior for health guidance and personalization.
 
 
-##Tech Stack
+# Tech Stack
 Layer	Technology / Tools
 Frontend	TypeScript, CSS
 UI/UX	Responsive design principles
 Prototype	HTML structure, interactive components
 
 
-##Project Highlights
+# Project Highlights
 
 Developed for Dawn of Code Hackathon 2025
 
@@ -39,7 +39,7 @@ Frontend-only prototype, with plans for backend, AI, and data integration
 Focused on interactive user experience for health guidance
 
 
-##How to Run
+# How to Run
 
 Clone the repo:
 
@@ -52,20 +52,20 @@ Start a live-server (or open index.html in a browser)
 
 Interact with the UI to explore prototype features
 
-##Tip: Use the browser console to see any log messages simulating backend responses.
+# Tip: Use the browser console to see any log messages simulating backend responses.
 
 
-##Project Structure
+# Project Structure
 ```
 AROGYA-MITRA-MEDICAL-CHATBOT/
-├─ index.html       # Main HTML page
-├─ style.css        # Prototype styling
-├─ app.ts           # TypeScript frontend logic
-├─ assets/          # Images, icons, UI resources
-├─ README.md        # Project documentation
+├─ index.html       #  Main HTML page
+├─ style.css        #  Prototype styling
+├─ app.ts           #  TypeScript frontend logic
+├─ assets/          #  Images, icons, UI resources
+├─ README.md        #  Project documentation
 ```
 
-##Future Plans
+# Future Plans
 
 Add AI/ML-based health recommendations
 
@@ -76,7 +76,7 @@ Add voice interaction and analytics
 Convert prototype into a full-fledged intelligent assistant
 
 
-##Notes / Clarifications
+# Notes / Clarifications
 
 This is a frontend prototype only
 
